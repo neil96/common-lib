@@ -1,0 +1,1 @@
+# phpStorm short key
